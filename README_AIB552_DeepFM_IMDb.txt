@@ -1,4 +1,4 @@
-README — AIB552 End-of-Course Assessment (July 2025): Residual MLP + DeepFM for IMDb Reviews
+README — : Residual MLP + DeepFM for IMDb Reviews
 ============================================================================================
 
 Project summary
